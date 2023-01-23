@@ -12,6 +12,7 @@ body{
 html{
     scroll-behavior: smooth;
 }
+/* Navbar styling here */
 .nav-top{
     display: flex;
     justify-content: flex-end;
@@ -38,6 +39,7 @@ a {
     text-decoration: none;
     color: white;
 }
+/* Section MImic styling here */
 .section-mimic {
     display: flex;
     flex-direction: column;
@@ -56,6 +58,7 @@ a {
     color: #be3144;
     font-style: italic;
 }
+/* Section Projects styling here */
 .projects-section {
     text-align: center;
     padding: 10rem 2rem;
@@ -113,6 +116,7 @@ img {
     padding: 1rem 2rem;
     border-radius: 2px;
 }
+/* Section Content here */
 .contact-section {
     display: flex;
     flex-direction: column;
@@ -146,6 +150,7 @@ img {
 .contact-details:hover {
     transform: translateY(8px);
 }
+/* Footer Styling here */
 footer {
     font-weight: 300;
     display: flex;
